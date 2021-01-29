@@ -8,4 +8,5 @@ Todo:
     - Add multiple companies and let user have a drop down to choose from
     - Dynamic time range
 - Crypto currency price
-    - ...
+    - Set Euro as default currency (investigate scraping data)
+    - Nice table format (maybe w/ Seaborn?)
